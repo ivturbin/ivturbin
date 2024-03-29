@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @ivturbin
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Docker and Kubernetes
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me: van_turbin@mail.ru
-
-<!---
-ivturbin/ivturbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: (https://t.me/ivan_tigerpaw)
